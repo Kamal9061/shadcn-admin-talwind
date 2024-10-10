@@ -59,8 +59,6 @@ Start the server
 
 ## Author
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+Crafted with 🤍 by Kamal
 
-## License
 
-Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
